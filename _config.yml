@@ -59,8 +59,12 @@ plugins:
 author:
   name   : "Kieran Brennan"
   avatar : "/assets/images/kieran-portrait.jpeg"
-  bio    : "Heartspace Co-founder. Ex-Halter, Ex-Soul Machines."
+  bio    : "Co-founder of Heartspace (Formerly Director of Data @ Halter)"
   links:
+    - label: "Location"
+      icon: "fas fa-fw fa-map-marker-alt"
+      url: "#"
+      text: "Auckland, New Zealand"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kieranabrennan"
