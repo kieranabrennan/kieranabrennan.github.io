@@ -58,8 +58,8 @@ plugins:
 
 author:
   name   : "Kieran Brennan"
-  avatar : "/assets/images/kieran-portrait.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/kieran-portrait.jpeg"
+  bio    : "Heartspace Co-founder. Ex-Halter, Ex-Soul Machines."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -67,6 +67,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kieran-brennan/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"  # FontAwesome icon for a graduation cap
+      url: "https://scholar.google.com/citations?user=wtPJVG0AAAA"
 
 footer:
   links:
@@ -76,6 +79,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kieran-brennan/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"  # FontAwesome icon for a graduation cap
+      url: "https://scholar.google.com/citations?user=wtPJVG0AAAA"
 
 defaults:
   # _posts
