@@ -10,7 +10,7 @@ title: Home
 
 ## About
 <div id="about">
-About
+About – home.md
 </div>
 
 ## Publications
