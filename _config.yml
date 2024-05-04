@@ -19,6 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
+url: https://kieranabrennan.github.io
 github_username: kieranabrennan
 minimal_mistakes_skin: default
 search: true
@@ -60,11 +61,8 @@ author:
   name   : "Kieran Brennan"
   avatar : "/assets/images/kieran-portrait.jpeg"
   bio    : "Co-founder of Heartspace (Formerly Director of Data @ Halter)"
+  location : "Auckland, New Zealand"
   links:
-    - label: "Location"
-      icon: "fas fa-fw fa-map-marker-alt"
-      url: "#"
-      text: "Auckland, New Zealand"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kieranabrennan"
@@ -107,9 +105,10 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+navigation:
+  - title: "About"
+    url: "#about"
+  - title: "Publications"
+    url: "#publications"
+  - title: "Projects"
+    url: "#projects"
