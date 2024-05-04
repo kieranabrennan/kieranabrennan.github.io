@@ -104,11 +104,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-navigation:
-  - title: "About"
-    url: "#about"
-  - title: "Publications"
-    url: "#publications"
-  - title: "Projects"
-    url: "#projects"
