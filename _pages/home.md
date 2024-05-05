@@ -15,8 +15,9 @@ permalink: /
     font-size: 16px;
     line-height: 1.4;
     color: #333;
+    padding-bottom: 20px;
 }
-#publications {
+#pubs {
     margin: 0;
     padding: 0;
     background-color: white;
@@ -24,6 +25,10 @@ permalink: /
     font-size: 16px;
     line-height: 1.4;
     color: #333;
+    /* margin-bottom: 50px;  */
+}
+#about {
+    margin-bottom: 50px; 
 }
 
 
@@ -166,7 +171,7 @@ figcaption {
         <img src="/assets/images/halter-4.jpg">
         <figcaption>Kicking off the collaboration with Tasmania Institute of Agriculture for research on dairy farm productivity.</figcaption>
     </figure>
-    Early on at Halter I was the leader of various systems engineering projects. In this role I developed a system for efficiently calibrating the IMU sensor on thousands of devices, and led the effort to efficiently manage power across the fleet of devices, enabling Halter to launch into new markets. I was with Halter through the Series B & C funding rounds (USD $74M raised), over which time the company grew from 30 to 150 employees.
+    Early on at Halter I was the leader of various systems engineering projects. In this role I developed a system for efficiently calibrating the IMU sensor on thousands of devices, and led the effort to efficiently manage power across the fleet of devices, enabling Halter to deploy into a new market. I was with Halter through the Series B & C funding rounds (USD $74M raised), over which time the company grew from 30 to 150 employees.
 </div>
 </div>
 
@@ -189,7 +194,7 @@ figcaption {
         <img src="/assets/images/phd-1.jpeg">
         <figcaption>A presentation on my thesis for the UoA 3-minute thesis competition.</figcaption>
     </figure>
-    My PhD brought my background in mathematical modelling together with my passion for applied engineering in the biomedical domain. I learned a greater appreciation for hardware and electronics and honed my skills in experimentation and iterative development.
+    My PhD brought my background in mathematical modelling together with my passion for applied engineering in the biomedical domain. I developed a greater appreciation for hardware and electronics and honed my skills in experimentation and iterative development.
 </div>
 </div>
 
@@ -237,7 +242,7 @@ figcaption {
 </div>
 
 
-## Projects
+## Featured projects
 <div id="projects">
 
 <div class="project">
@@ -261,8 +266,10 @@ figcaption {
 
 </div>
 
+
+
 ## Publications
-<div id="publications">
+<div id="pubs">
 <p>Also on <a href="https://scholar.google.com/citations?user=wtPJVG0AAAA">Google Scholar</a></p>
 
 <ul>
