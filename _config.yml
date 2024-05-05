@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Kieran Brennan"
   avatar : "/assets/images/kieran-portrait.jpeg"
-  bio    : "Co-founder of Heartspace (Formerly Director of Data @ Halter)"
+  bio    : "Co-founder of Heartspace"
   location : "Auckland, New Zealand"
   links:
     - label: "GitHub"

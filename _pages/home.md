@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <style>
-body {
+#projects {
     margin: 0;
     padding: 0;
     background-color: white;
@@ -16,6 +16,16 @@ body {
     line-height: 1.4;
     color: #333;
 }
+#publications {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 1.4;
+    color: #333;
+}
+
 
 .container {
     margin-left: auto;
@@ -151,7 +161,7 @@ figcaption {
         <img src="/assets/images/halter-3.jpg">
         <figcaption>Developing pasture growth models on the Halter Research & Development farm.</figcaption>
     </figure>
-    In the senior leadership team we managed a number of tough business decisions across logistics, customer needs, and R&D risk management in the face of demanding growth expectations and tight constraints. We also set up research relationships with universities who are world leaders in agriculture research.
+    In the senior leadership team we managed a number of tough business decisions across logistics, customer needs, and R&D risk management in the face of demanding growth expectations and tight market conditions. We also set up research relationships with universities who are world leaders in agriculture research.
     <figure>
         <img src="/assets/images/halter-4.jpg">
         <figcaption>Kicking off the collaboration with Tasmania Institute of Agriculture for research on dairy farm productivity.</figcaption>
@@ -228,7 +238,7 @@ figcaption {
 
 
 ## Projects
-<div id="projects"></div>
+<div id="projects">
 
 <div class="project">
 <div class="pico"><img src="assets/images/ebyt.png"></div>
@@ -249,14 +259,25 @@ figcaption {
 <div class="pend"></div>
 </div>
 
-
+</div>
 
 ## Publications
-<div id="publications"></div>
-Also on [Google Scholar](https://scholar.google.com/citations?user=wtPJVG0AAAA)
+<div id="publications">
+<p>Also on <a href="https://scholar.google.com/citations?user=wtPJVG0AAAA">Google Scholar</a></p>
 
-- [High-speed light source depth estimation using spatially-resolved diffuse imaging.](https://iopscience.iop.org/article/10.1088/2040-8986/aaf4db/meta) <span style="color: green;">Journal of Optics, 21 (1), 015604.</span> Kieran Brennan, Dan Kulasingham, Poul Nielsen, Andrew Taberner, Bryan Ruddy.
-- [High speed spatially resolved diffuse imaging for jet injection depth estimation.](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10493/104931S/High-speed-spatially-resolved-diffuse-imaging-for-jet-injection-depth/10.1117/12.2288874.short#_=_) <span style="color: green;">Dynamics and Fluctuations in Biomedical Photonics XV (Vol. 10493, pp. 202-208). SPIE.</span> Kieran Brennan, Bryan Ruddy, Poul Nielsen, Andrew Taberner
-- [Light source depth estimation in porcine skin using spatially resolved diffuse imaging.](https://ieeexplore.ieee.org/abstract/document/7592075) <span style="color: green;">In 2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) (pp. 5917-5920). IEEE.</span> Kieran Brennan, Bryan Ruddy, Poul Nielsen, Andrew Taberner
-
+<ul>
+  <li>
+    <a href="https://iopscience.iop.org/article/10.1088/2040-8986/aaf4db/meta">High-speed light source depth estimation using spatially-resolved diffuse imaging.</a>
+    <span style="color: green;">Journal of Optics, 21 (1), 015604.</span> Kieran Brennan, Dan Kulasingham, Poul Nielsen, Andrew Taberner, Bryan Ruddy.
+  </li>
+  <li>
+    <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10493/104931S/High-speed-spatially-resolved-diffuse-imaging-for-jet-injection-depth/10.1117/12.2288874.short#_=_">High speed spatially resolved diffuse imaging for jet injection depth estimation.</a>
+    <span style="color: green;">Dynamics and Fluctuations in Biomedical Photonics XV (Vol. 10493, pp. 202-208). SPIE.</span> Kieran Brennan, Bryan Ruddy, Poul Nielsen, Andrew Taberner
+  </li>
+  <li>
+    <a href="https://ieeexplore.ieee.org/abstract/document/7592075">Light source depth estimation in porcine skin using spatially resolved diffuse imaging.</a>
+    <span style="color: green;">In 2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) (pp. 5917-5920). IEEE.</span> Kieran Brennan, Bryan Ruddy, Poul Nielsen, Andrew Taberner
+  </li>
+</ul>
+</div>
 
