@@ -92,8 +92,14 @@ img {
 
 .project {
     margin-bottom: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 15px;
     border-bottom: 1px solid #eee;
+}
+
+.project-title {
+    font-weight: bold;
+    /* font-size: 16px; */
+    margin-bottom: 5px;
 }
 
 .pico {
@@ -246,21 +252,32 @@ figcaption {
 <div id="projects">
 
 <div class="project">
-<div class="pico"><img src="assets/images/ebyt.png"></div>
-<div class="pdesc">I built <a href="https://github.com/kieranabrennan/every-breath-you-take">Every-Breath-You-Take</a> to be able to train heart rate variability with a Polar H10 heart rate monitor. The project received some attention after being on the front page of <a href="https://news.ycombinator.com/item?id=37538028">Hacker News</a> for a week.</div>
+<div class="pico"><img src="assets/images/lungs.jpg"></div>
+<div class="project-title">Every Breath You Take (<a href="https://github.com/kieranabrennan/every-breath-you-take">github</a>)</div>
+<div class="pdesc">It's possible to control your stress response through controlled breathing, with a technique called Biofeedback Training. I built <a href="https://github.com/kieranabrennan/every-breath-you-take">Every-Breath-You-Take</a> to measure and train this with a Polar H10 heart rate monitor. The project received some attention after being on the front page of <a href="https://news.ycombinator.com/item?id=37538028">Hacker News</a> for a week and formed the basis for building <a href="https://heartspacehealth.co.nz/">Heartspace</a>.</div>
 <div class="pend"></div>
 </div>
 
 <div class="project">
-<div class="pico"><img src="assets/images/ecg.png"></div>
-<div class="pdesc"><a href="https://github.com/kieranabrennan/to-beat-or-not-to-beat">To-Beat-Or-Not-To-Beat</a> is a CNN model for detecting Atrial Fibrillation, a common type of heart arrhythmia. It is an implementation of a <a href="https://pubmed.ncbi.nlm.nih.gov/30106699/">recent paper on the topic</a> adapted to make detections from a Polar H10 heart rate monitor.</div>
+<div class="pico"><img src="assets/images/heart.jpg"></div>
+<div class="project-title">To Beat or not to Beat (<a href="https://github.com/kieranabrennan/to-beat-or-not-to-beat">github</a>)</div>
+<div class="pdesc">Atrial Fibrillation (AF) is a heart beat arrhythmia that affects 30 million people worldwide. I built <a href="https://github.com/kieranabrennan/to-beat-or-not-to-beat">To Beat or not to Beat</a> to detect AF with a wearable heart rate monitor. The project is an implementation of <a href="https://pubmed.ncbi.nlm.nih.gov/30106699/">recent paper on the topic</a> and uses a convolutional neural network trained on a public electrocardiogram dataset.</div>
 
 <div class="pend"></div>
 </div>
 
 <div class="project">
-<div class="pico"><img src="assets/images/trp-logo.jpeg"></div>
-<div class="pdesc">In 2018 me and a friend started <a href="https://www.instagram.com/therestproject/">The Rest Project</a> to bring the science of flotation therapy (sensory deprivation) to more people. Hundreds of people around NZ used our programs to manage stress. </div>
+<div class="pico"><img src="assets/images/eye.jpg"></div>
+<div class="project-title">Interoception (<a href="https://github.com/kieranabrennan/interoception">github</a>)</div>
+<div class="pdesc">Heart rate awareness – the ability to perceive your own heartbeat – correlates highly with emotional control and pain control. I built <a href="https://github.com/kieranabrennan/interoception">Interoception</a> to measure and train this  with a wearable heart rate monitor. It's an implementation of a widely used protocol in the field of Interoceptive Awareness.</div>
+
+<div class="pend"></div>
+</div>
+
+<div class="project">
+<div class="pico"><img src="assets/images/rest.jpg"></div>
+<div class="project-title">The Rest Project (<a href="https://www.instagram.com/therestproject/">instagram</a>)</div>
+<div class="pdesc">In 2018 I started <a href="https://www.instagram.com/therestproject/">The Rest Project</a> with a friend to help people use flotation therapy to reduce stress. Hundreds of people around NZ used our programs to manage stress. </div>
 <div class="pend"></div>
 </div>
 
