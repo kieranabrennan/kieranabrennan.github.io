@@ -153,7 +153,9 @@ figcaption {
     <img src="assets/images/hs-logo.png">
 </div>
 <div class="desc">
-    Currently building <a href="https://heartspacehealth.co.nz/">Heartspace</a>...
+    I'm Co-founder of <a href="https://heartspacehealth.co.nz/">Heartspace</a>, where we're building tools for better breathing. The techique of resonant breathing helps to reduce stress and improve performance under pressure (see our blogs on the subject <a href="https://heartspacehealth.co.nz/blogs/new-featured-articles/the-ascent-of-heart-rate-variability-biofeedback-training">here</a>). The breathing practise has been studied since the 80s, and has recently come into prominence both in academia, and in popular revivals of traditional eastern practises. 
+    <br><br>
+    Our product teaches deep breathing using a process Heart Rate Variability Biofeedback using a wearable heart rate monitor and data analytics built into our app. We are currently launching in New Zealand and Australia.
 </div>
 </div>
 
@@ -166,18 +168,20 @@ figcaption {
     <img src="assets/images/halter-logo.png">
 </div>
 <div class="desc">
-    I was Director of Data at <a href="https://www.halterhq.com/">Halter</a> where I led the data science team for models on pasture growth forecasting and on-edge position tracking.
-    This included data collection, incorporating the relevant pasture and animal science, and considering the appropriate model architectures.
+    I was Director of Data at <a href="https://www.halterhq.com/">Halter</a> where I led the data science team, modelling pasture growth and building models for animal position tracking.
+    This included the data collection process, designing the appropriate model architectures, and reading a lot of papers about cows and grass.
     <figure>
         <img src="/assets/images/halter-3.jpg">
         <figcaption>Developing pasture growth models on the Halter Research & Development farm.</figcaption>
     </figure>
-    In the senior leadership team we managed a number of tough business decisions across logistics, customer needs, and R&D risk management in the face of demanding growth expectations and tight market conditions. We also set up research relationships with universities who are world leaders in agriculture research.
+    In the senior leadership team we made decisions to launch into new markets, initiate new R&D, and cut losses on stagnant projects. We faced demanding growth expectations and tight market conditions while developing a challenging product that was mission-critial for our customers. We set up relationships to run studies on virtual fencing with world leaders in the field.
     <figure>
         <img src="/assets/images/halter-4.jpg">
         <figcaption>Kicking off the collaboration with Tasmania Institute of Agriculture for research on dairy farm productivity.</figcaption>
     </figure>
-    Early on at Halter I was the leader of various systems engineering projects. In this role I developed a system for efficiently calibrating the IMU sensor on thousands of devices, and led the effort to efficiently manage power across the fleet of devices, enabling Halter to deploy into a new market. I was with Halter through the Series B & C funding rounds (USD $74M raised), over which time the company grew from 30 to 150 employees.
+    Early on I developed the strategy for critical systems projects including how to calibrate a core sensor efficiently across on thousands of devices and conserve energy across the fleet, enabling Halter to deploy into new markets. 
+    <br><br>
+    I joined Halter after the Series A round of funding, and co-ordinated the first farm deployment. Halter has since deployed on hundreds of farms, in NZ and internationally and raised Series B & C funding rounds (USD $74M total).
 </div>
 </div>
 
@@ -216,7 +220,7 @@ figcaption {
     As a Research Engineer at <a href="https://www.soulmachines.com/">Soul Machines</a> under <a href="https://nzawards.org.nz/winners/mark-sagar-phd-frsnz/">Dr. Mark Sagar</a>, I developed a neural network for motor control of a virtual human avatar. The avatar could be trained to draw and play pong, built on a simple network called a self-organising map.
     <figure class="half">
         <a><div class="fluid-width-video-wrapper" style="padding-top: 50%;"><iframe src="https://www.youtube.com/embed/fNWjKtVWToc?si=IMOpwUs-0DZHRM5e" frameborder="0" allowfullscreen="" id="fitvid0"></iframe></div></a>
-        <figcaption>Demonstrating the avatar, BabyX, which is controlled by neural networks and can interact in real-time.</figcaption>
+        <figcaption>Demonstrating the interactive avatar, BabyX, which is animated by neural networks.</figcaption>
     </figure>
     I learnt to build models in a streaming, 3D graphics environment, and continued to work for Soul Machines during my PhD. When I began at Soul Machines in 2014 we were a team of six. By the time I left the company was over 70 employees and had raised USD $7.5m. As of 2024, Soul Machines has raised USD$135m in funding.
 </div>
@@ -287,8 +291,6 @@ figcaption {
 
 ## Publications
 <div id="pubs">
-<p>Also on <a href="https://scholar.google.com/citations?user=wtPJVG0AAAA">Google Scholar</a></p>
-
 <ul>
   <li>
     <a href="https://iopscience.iop.org/article/10.1088/2040-8986/aaf4db/meta">High-speed light source depth estimation using spatially-resolved diffuse imaging.</a>
