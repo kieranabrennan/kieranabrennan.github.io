@@ -258,35 +258,48 @@ figcaption {
 <div class="project">
 <div class="pico"><img src="assets/images/lungs.jpg"></div>
 <div class="project-title">Every Breath You Take (<a href="https://github.com/kieranabrennan/every-breath-you-take">github</a>)</div>
-<div class="pdesc">It's possible to control your stress response through controlled breathing, with a technique called Biofeedback Training. I built <a href="https://github.com/kieranabrennan/every-breath-you-take">Every-Breath-You-Take</a> to measure and train this with a Polar H10 heart rate monitor. The project received some attention after being on the front page of <a href="https://news.ycombinator.com/item?id=37538028">Hacker News</a> for a week and formed the basis for building <a href="https://heartspacehealth.co.nz/">Heartspace</a>.</div>
+<div class="pdesc">A simple biofeedback training interface for visualising live heart rate and chest expansion, which connects to common wearable heart rate monitors.</div>
 <div class="pend"></div>
 </div>
 
 <div class="project">
 <div class="pico"><img src="assets/images/heart.jpg"></div>
 <div class="project-title">To Beat or not to Beat (<a href="https://github.com/kieranabrennan/to-beat-or-not-to-beat">github</a>)</div>
-<div class="pdesc">Atrial Fibrillation (AF) is a heart beat arrhythmia that affects 30 million people worldwide. I built <a href="https://github.com/kieranabrennan/to-beat-or-not-to-beat">To Beat or not to Beat</a> to detect AF with a wearable heart rate monitor. The project is an implementation of <a href="https://pubmed.ncbi.nlm.nih.gov/30106699/">recent paper on the topic</a> and uses a convolutional neural network trained on a public electrocardiogram dataset.</div>
+<div class="pdesc"> A convolutional neural network model for detecting Atrial Fibrillation, a common heart arrhythmia, using a fitness ECG monitor.</div>
+<div class="pend"></div>
+</div>
 
+<div class="project">
+<div class="pico"><img src="assets/images/heart.png"></div>
+<div class="project-title">BLEHRM – Bluetooth Low Energy Heart Rate Monitoring (<a href="https://github.com/kieranabrennan/blehrm">github</a>)</div>
+<div class="pdesc">A python package that provides a simple interface for streaming from most common wearable heart rate monitors using bluetooth low energy.
+</div>
 <div class="pend"></div>
 </div>
 
 <div class="project">
 <div class="pico"><img src="assets/images/eye.jpg"></div>
 <div class="project-title">Interoception (<a href="https://github.com/kieranabrennan/interoception">github</a>)</div>
-<div class="pdesc">Heart rate awareness – the ability to perceive your own heartbeat – correlates highly with emotional control and pain control. I built <a href="https://github.com/kieranabrennan/interoception">Interoception</a> to measure and train this  with a wearable heart rate monitor. It's an implementation of a widely used protocol in the field of Interoceptive Awareness.</div>
+<div class="pdesc">A program for measuring interoceptive awareness, the ability for someone to perceive their own heartbeat, a skill highly correlated with emotional self-control.</div>
 
 <div class="pend"></div>
 </div>
 
 <div class="project">
+<div class="pico"><img src="assets/images/running_man.png"></div>
+<div class="project-title">Every Step You Take (<a href="https://github.com/kieranabrennan/every-step-you-take">github</a>)</div>
+<div class="pdesc">A simple cloud workflow that sends a weekly activity summary email, based on iPhone step count data.</div>
+<div class="pend"></div>
+</div>
+
+<!-- <div class="project">
 <div class="pico"><img src="assets/images/rest.jpg"></div>
 <div class="project-title">The Rest Project (<a href="https://www.instagram.com/therestproject/">instagram</a>)</div>
 <div class="pdesc">In 2018 I started <a href="https://www.instagram.com/therestproject/">The Rest Project</a> with a friend to help people use flotation therapy to reduce stress. Hundreds of people around NZ used our programs to manage stress. </div>
 <div class="pend"></div>
-</div>
+</div> -->
 
 </div>
-
 
 
 ## Publications
