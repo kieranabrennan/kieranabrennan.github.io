@@ -146,16 +146,29 @@ figcaption {
 
 <div class="entry row">
 <div class="timespan">
-    2024 - 
+    2025 -
+</div>
+<div class="ico">
+    <div class="entry-dot"></div>
+    <img src="assets/images/vs-logo.png">
+</div>
+<div class="desc">
+    I'm the Vehicle Performance Engineer at <a href="https://www.vessev.com/">Vessev</a>, responsible for modelling and monitoring the performance of the electric, hydrofoiling ferries.
+</div>
+</div>
+
+<div class="entry row">
+<div class="timespan">
+    2024 - 2025
 </div>
 <div class="ico">
     <div class="entry-dot"></div>
     <img src="assets/images/hs-logo.png">
 </div>
 <div class="desc">
-    I'm Co-founder of <a href="https://heartspacehealth.co.nz/">Heartspace</a>, where we're building tools for better breathing. The techique of resonant breathing helps to reduce stress and improve performance under pressure (see our blogs on the subject <a href="https://heartspacehealth.co.nz/blogs/new-featured-articles/the-ascent-of-heart-rate-variability-biofeedback-training">here</a>). The breathing practise has been studied since the 80s and has recently come into prominence both in academia, and in popular revivals of traditional eastern practises. 
+    I built <a href="https://heartspacehealth.co.nz/">Heartspace</a> with my co-founder, an app teach the techique of resonant breathing. The breathing practise has been studied since the 80s and has recently come into prominence both in academia, and in popular revivals of traditional eastern practises. 
     <br><br>
-    Our product teaches deep breathing using a process called Heart Rate Variability Biofeedback using a wearable heart rate monitor and data analytics built into our app. We are currently launching in New Zealand and Australia.
+    Our product is built around a process called Heart Rate Variability Biofeedback using a wearable heart rate monitor and data analytics built into our app. 
 </div>
 </div>
 
